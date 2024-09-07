@@ -48,7 +48,7 @@ const SuportPage = () => {
             <h1 className="text-2xl font-bold text-center text-gray-800 mb-6 md:text-3xl">Cartões de contato</h1>
             <div className="bg-blue-100 p-6 rounded-lg shadow-md flex flex-col items-center">
               <h2 className="md:text-2xl font-semibold text-blue-950 mb-4 text-base">Ligações e Whatsapp &#128071;</h2>
-              <p className="md:text-xl text-lg font-bold text-gray-800 mb-2">+55 (85) 988060437</p>
+              <p className="md:text-xl text-lg font-bold text-gray-800 mb-2">+00 (00) 00000-0000</p>
               <p className="text-sm text-gray-600 text-center mb-4">Ou aponte a sua câmera para falar com nosso suporte!</p>
               <img src="qrcode.png" alt="Logo da G10 Solution" className="h-32 md:h-48 animate-fadeIn" />
             </div>
